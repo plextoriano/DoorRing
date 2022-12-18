@@ -12,6 +12,9 @@ ___
 
 ## Diseño
 ![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_0.png?raw=true)
+<img src="https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_0.png" width=50% height=50%>
+
+
 ![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_1.jpg?raw=true)
 ![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_2.jpg?raw=true)
 
