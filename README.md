@@ -11,9 +11,9 @@ EN DESARROLLO
 ___
 
 ## Diseño
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/Fermax_3399_0.png?raw=true)
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/Fermax_3399_1.jpg?raw=true)
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/Fermax_3399_2.jpg?raw=true)
+![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_0.png?raw=true)
+![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_1.jpg?raw=true)
+![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_2.jpg?raw=true)
 
 ![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/F0004TEK.png?raw=true)
 
