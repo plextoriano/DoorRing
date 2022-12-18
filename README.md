@@ -11,14 +11,13 @@ EN DESARROLLO
 ___
 
 ## Diseño
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_0.png?raw=true)
+
 <img src="https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_0.png" width=50% height=50%>
 
+<img src="https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_2.jpg" width=50% height=50%>
 
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_1.jpg?raw=true)
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/fermax_3399_2.jpg?raw=true)
-
-![alt text](https://github.com/plextoriano/DoorRing/blob/main/images/F0004TEK.png?raw=true)
+Forma de onda cuando suena el portero. Tomada entre pines 3 y 4.
+<img src="https://github.com/plextoriano/DoorRing/blob/main/images/F0004TEK.png" width=100% height=100%>
 
 
 ## Firmware
